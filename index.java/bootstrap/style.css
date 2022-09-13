@@ -1,0 +1,15 @@
+.container-sm{
+    background-color: rgb(255, 183, 0);
+    width: auto;
+    height: 1000px;
+}
+.btn{
+    width: 111px;
+   background-color: blueviolet;
+
+}
+.btn:hover
+{
+    background-color: brown;
+
+}
